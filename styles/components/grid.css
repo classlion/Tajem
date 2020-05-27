@@ -68,3 +68,11 @@
 .column-logo {
     margin-right: 100px;
 }
+
+.row>.grid-item-expertise:not(:nth-child(3n)) {
+    border-right: 1px solid #dfdfdf;
+}
+
+.row>.grid-item-expertise-bottom {
+    border-bottom: 1px solid #dfdfdf;
+}
