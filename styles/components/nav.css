@@ -1,0 +1,27 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+.nav {}
+
+.nav .nav-item {
+    color: #ffffff;
+    display: inline-block;
+    padding: 0 10px;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-size: 13px;
+}
+
+.nav .nav-item:hover {
+    color: #00e0d0;
+    text-decoration: none;
+}
+
+.nav .is-active {
+    color: #00e0d0;
+    text-decoration: none;
+}
